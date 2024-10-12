@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="400" src="https://cdn.discordapp.com/attachments/1241934417627320320/1294533328099344436/image.png?ex=670b5b9c&is=670a0a1c&hm=814fc6424893073351ed277886d1e5efe8a7ab92d8006ca8aaef1c408482a356&"  />
-</div>
+
 
 ###
 
